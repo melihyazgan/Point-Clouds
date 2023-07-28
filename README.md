@@ -1,5 +1,8 @@
 # Point-Clouds
-This is the repository for the important implementations of processing/training of Lidar Data
+
+## Before Deep Learning
+This is the repository for the important implementations of processing/training of Lidar Data.  
+Before dive in the Deep Learning approaches the traditional approaches for segmentation, detection in [Starter Script](PCD_Starter.ipynb)
 ## PointNet
 PointNet is a popular deep learning architecture that can directly process unordered point clouds.   
 It uses shared multi-layer perceptrons (MLPs) to learn local and global features from the points and combines them to perform object detection.   
